@@ -11,7 +11,7 @@ Github Lesson
 - git init  
 - touch index.html  
 # CLONE YOUR GITHUB REPO  
--- git remote add origin "url (from the HTTPS tab of the repo's CODE)"  
+- git remote add origin "url (from the HTTPS tab of the repo's CODE)"  
 # PUSH TO GITHUB  
 git add index.html  
 git commit -m "DESCRIPTION"  
